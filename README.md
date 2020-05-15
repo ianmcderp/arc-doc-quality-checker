@@ -1,0 +1,1 @@
+# arc-doc-quality-checker
