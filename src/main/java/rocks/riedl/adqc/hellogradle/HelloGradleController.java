@@ -1,4 +1,4 @@
-package rocks.riedl.adqc.controller;
+package rocks.riedl.adqc.hellogradle;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
