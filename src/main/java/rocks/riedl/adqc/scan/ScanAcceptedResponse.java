@@ -1,4 +1,4 @@
-package rocks.riedl.adqc.rocks.riedl.adqc.scan;
+package rocks.riedl.adqc.scan;
 
 import lombok.Builder;
 import org.springframework.http.HttpStatus;
